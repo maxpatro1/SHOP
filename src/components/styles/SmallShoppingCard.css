@@ -1,0 +1,36 @@
+.productPreview {
+    width: 264px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-right: 30px;
+    font-size: 16px;
+}
+
+.productPreview-photo {
+    width: 264px;
+    margin-bottom: 8px;
+}
+
+.productPreview-description {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 8px;
+}
+
+.productPreview-price {
+    margin-bottom: 8px;
+}
+
+.productPreview-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1b2738;
+    color: white;
+    height: 35px;
+}
+
+.productPreview-button:hover {
+    background-color: #283b54;
+}

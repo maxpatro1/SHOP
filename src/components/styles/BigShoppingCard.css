@@ -1,0 +1,13 @@
+.promoSlider {
+    width: 600px;
+}
+
+.promoSlider-photo {
+    width: 80vw;
+}
+
+.promoSlider-button {
+    width: 10vw;
+    height: 5px;
+    background-color: #999999;
+}
