@@ -1,0 +1,35 @@
+.footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.logo-payment{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+.payment{
+    padding-right: 60px;
+}
+.visa{
+    padding-right: 30px;
+}
+.menu{
+    display: flex;
+    flex-direction: row;
+}
+.help-service{
+    font-size: 0.7em;
+    color: gray;
+}
+.number{
+    margin-bottom: 3px;
+    padding-top: 20px;
+}
+.vk{
+    padding-right: 15px;
+    padding-top: 10px;
+}
+.social-networks{
+    padding-right: 30px;
+}

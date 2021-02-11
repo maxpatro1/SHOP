@@ -1,0 +1,12 @@
+a{
+    font-size: 0.9em;
+    color: gray;
+}
+
+.footer-menu{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    border: 3px solid white;
+    gap:0.75em
+}
