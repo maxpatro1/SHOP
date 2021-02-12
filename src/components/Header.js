@@ -5,7 +5,7 @@ class Header extends React.Component{
         return(
             <div>
 
-                <div>
+                <div className="VVVSSSEEE">
                     <div className="srtochkaone">
                         <a className="blocknachl">Каталог</a>
                         <a className="block1">О компании</a>
@@ -14,6 +14,7 @@ class Header extends React.Component{
                         <a className="block1">Оплата</a>
                         <a className="block1">Личный кабинет</a>
                         <a className="block1">Блог</a>
+                    </div>
 
                         <div className="chact2">
                             <a className="dostavka">Доставка с 8:00 до 23:00</a>
@@ -22,7 +23,7 @@ class Header extends React.Component{
                             <a className="RU">RU</a>
                         </div>
 
-                    </div>
+
 
 
 
