@@ -1,0 +1,38 @@
+.srtochkaone{
+    padding: 5px 40px 0px;
+}
+
+
+.srtochkaone{
+    display: flex;
+    flex-direction: row;
+}
+
+
+.block1{
+    padding-left: 2vw;
+}
+
+
+.dostavka{
+    padding-left: 15vw;
+}
+
+.nomer{
+    padding-left: 2vw;
+    padding-right: 2vw;
+}
+
+.EN{
+    border-right: #282c34 1px solid;
+    padding-right: 0.7vw;
+}
+
+.RU{
+    padding-left: 0.7vw;
+}
+
+/*.chact2{*/
+/*    display: flex;*/
+/*    flex-direction: row;*/
+/*}*/
