@@ -15,7 +15,7 @@
 
 
 .dostavka{
-    padding-left: 15vw;
+    /*padding-left: 15vw;*/
 }
 
 .nomer{
@@ -32,7 +32,12 @@
     padding-left: 0.7vw;
 }
 
-/*.chact2{*/
-/*    display: flex;*/
-/*    flex-direction: row;*/
-/*}*/
+.chact2{
+    padding-right: 40px;
+}
+
+.VVVSSSEEE{
+    display: flex;
+    /*align-items: flex-end;*/
+    justify-content: space-between;
+}
